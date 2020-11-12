@@ -1,6 +1,6 @@
 # Text-Analysis-Model-Builder-App
 
-You can clone this repo and run the project in Visual Studio
+You can clone this repository and run the project in Visual Studio
 
 # Features
 
